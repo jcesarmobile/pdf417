@@ -1,0 +1,22 @@
+# android gen
+bin/
+gen/
+
+local.properties
+
+# osx gen
+.DS_Store
+
+# xcode gen
+xcuserdata/
+build/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# demo app
+Pdf417Demo
+
+# windoze stuff
+Thumbs.db
