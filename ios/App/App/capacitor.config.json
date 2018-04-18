@@ -1,0 +1,6 @@
+{
+  "appId": "mobi.pdf417.demo",
+  "appName": "pdf417",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

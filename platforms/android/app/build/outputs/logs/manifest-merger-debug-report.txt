@@ -1,0 +1,169 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/b228ab86c8b6787eacd51c87338247ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:2:1-41:12
+MERGED from [:CordovaLib] /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:20:1-27:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/f42302408ab5255f1902092e482ce8a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/04bebc95504e2424ede973e1d63e09d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/111bce6fa281d4ed97bc2243fcbab061/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/db263a84a534a2d184842188a8e3ac51/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/27ca8555bab782776f99dd3aeef146f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/a98ca15509ad64c05e58a249b5e69022/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/dfae208d12e4fa644aef0c40bc9fd8ed/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:2:102-128
+		INJECTED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:2:74-101
+		INJECTED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:2:11-45
+	xmlns:android
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:2:129-187
+	android:versionCode
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:2:46-73
+		INJECTED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:3:5-191
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:12:5-17:39
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:12:5-17:39
+	android:largeScreens
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:3:49-76
+	android:smallScreens
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:3:132-159
+	android:normalScreens
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:3:77-105
+	android:xlargeScreens
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:3:160-188
+	android:resizeable
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:3:106-131
+	android:anyDensity
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:3:23-48
+uses-permission#android.permission.INTERNET
+ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:5:5-13:19
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:32:5-39:19
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:32:5-39:19
+	android:supportsRtl
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:5:114-140
+	android:label
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:5:81-113
+	android:hardwareAccelerated
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:5:18-52
+	tools:ignore
+		ADDED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:34:9-39
+	android:largeHeap
+		ADDED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:33:9-33
+	android:icon
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:5:53-80
+activity#mobi.pdf417.demo.MainActivity
+ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:6:9-11:20
+	android:label
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:6:97-134
+	android:launchMode
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:6:135-165
+	android:windowSoftInputMode
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:6:257-299
+	android:configChanges
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:6:19-96
+	android:theme
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:6:194-256
+	android:name
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:6:166-193
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:7:13-10:29
+	android:label
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:7:28-65
+action#android.intent.action.MAIN
+ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:8:17-69
+	android:name
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:8:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:9:17-77
+	android:name
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:9:27-74
+activity#com.microblink.activity.BarcodeScanActivity
+ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:12:9-223
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:35:9-38:20
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:35:9-38:20
+	android:screenOrientation
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:12:125-161
+	android:configChanges
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:12:19-65
+	android:theme
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:12:162-220
+	android:name
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:12:66-124
+uses-sdk
+ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:14:5-74
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/b228ab86c8b6787eacd51c87338247ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/b228ab86c8b6787eacd51c87338247ef/AndroidManifest.xml:20:5-44
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:8:5-10:41
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:8:5-10:41
+MERGED from [:CordovaLib] /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [:CordovaLib] /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/CordovaLib/build/intermediates/manifests/full/debug/AndroidManifest.xml:25:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/f42302408ab5255f1902092e482ce8a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/f42302408ab5255f1902092e482ce8a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/04bebc95504e2424ede973e1d63e09d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/04bebc95504e2424ede973e1d63e09d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/111bce6fa281d4ed97bc2243fcbab061/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/111bce6fa281d4ed97bc2243fcbab061/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/db263a84a534a2d184842188a8e3ac51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/db263a84a534a2d184842188a8e3ac51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/27ca8555bab782776f99dd3aeef146f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/27ca8555bab782776f99dd3aeef146f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/a98ca15509ad64c05e58a249b5e69022/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/a98ca15509ad64c05e58a249b5e69022/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/dfae208d12e4fa644aef0c40bc9fd8ed/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/dfae208d12e4fa644aef0c40bc9fd8ed/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:14:42-71
+	android:minSdkVersion
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:14:15-41
+uses-permission#android.permission.CAMERA
+ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:15:5-65
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:19:5-65
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:15:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:16:5-69
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:20:5-69
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:20:5-69
+	android:name
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:16:22-66
+uses-feature#android.hardware.camera
+ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:17:5-60
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:22:5-24:36
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:22:5-24:36
+	android:name
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:17:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:18:5-95
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:25:5-27:36
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:18:68-92
+	android:name
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:18:19-67
+uses-feature#android.hardware.camera.flash
+ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:19:5-91
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:28:5-30:36
+MERGED from [com.microblink:pdf417.mobi:7.0.0] /Users/jcesarmobile/.gradle/caches/transforms-1/files-1.1/pdf417.mobi-7.0.0.aar/ed1630d692e481cc3d4f2e8cd6be8c62/AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:19:64-88
+	android:name
+		ADDED from /Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/platforms/android/app/src/main/AndroidManifest.xml:19:19-63
