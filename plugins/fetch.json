@@ -1,0 +1,10 @@
+{
+  "mobi.pdf417.Pdf417Scanner": {
+    "source": {
+      "type": "local",
+      "path": "/Users/jcesarmobile/Documents/proyectosNew/capacitorProjects/pdf417/node_modules/pdf417-cordova"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
